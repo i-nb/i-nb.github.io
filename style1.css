@@ -134,7 +134,7 @@ i {
   padding-top: 6vh;
   padding-bottom: 6vh;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   padding-left: 38vw;
   padding-right: 38vw;
 }
