@@ -42,7 +42,7 @@
 #pair {
     display: flex;
     justify-content: space-between;
-    width: 100%;
+    width: 100vw;
     height: 10vh;
     background-color: #ff1e00;
 }
@@ -126,7 +126,7 @@ i {
 .down {
   font-size: 4vh;
   font-weight: 400;
-  width: 100%;
+  width: 100vw;
   height: 16vh;
   background-color: #ff1e00;
   text-align: center;
